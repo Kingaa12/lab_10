@@ -1,0 +1,14 @@
+<h1>Login Page</h1>
+<form action="/account/login" method="post">
+
+    <label for="username">Username:</label><br>
+    <input type="text" id="username" name="username"><br>
+
+    <label for="password">Password:</label><br>
+    <input type="password" id="password" name="password"><br>
+
+    <!-- This is a placeholder value so that the returnUrl can be passed from login-page to the login submission route route -->
+    <input type="hidden" id="returnUrl" name="returnUrl" value="RETURN_URL_PLACEHOLDER">
+
+    <input type="submit" value="Submit">
+</form>

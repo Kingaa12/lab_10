@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "username": "test",
+    "hashedPassword": "$2b$10$c0YYrZNFxHgj4UEUhuBHsuj//lCRno2ScxiHhEnsn0LEivJ0E5Lk."
+  },
+  {
+    "id": 2,
+    "username": "kiing",
+    "hashedPassword": "$2b$10$LIrv3HDeaUVNExBu0XEfKu.zbI9MqwsO5sbuT7mzlY.PCTm5FC43K"
+  },
+  {
+    "id": 3,
+    "username": "1",
+    "hashedPassword": "$2b$10$3vJ4L/WzV30HiBkvkrT0au.A7ADTPHQEEKBHUdf8z7hgoHK00drFW"
+  }
+]
